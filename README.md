@@ -1,6 +1,6 @@
 Hello! 👋, I'm Paulo Sergio Meneguesso
 
-
+- 💻 I'm a student of Systems Analysis and Development
 - 🌱 I’m currently learning Java
 - 💬 Looking for a job/Internship
 - 📫 How to reach me: mail to: psmeneguesso@gmail.com or click at social badges below!
