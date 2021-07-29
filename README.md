@@ -35,3 +35,5 @@ Hello! 👋, I'm Paulo Sergio Meneguesso
   
  
 </div>
+
+ ![Snake animation](https://github.com/Paulosmj/Paulosmj/blob/output/github-contribution-grid-snake.svg)
